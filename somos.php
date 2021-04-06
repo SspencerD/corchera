@@ -41,7 +41,7 @@ include 'include/menu.php';
     <div class="container-fluid">
         <div class="text-center">
             <div class="jumbotron" style=" background-color:#ffff;">
-                <img src="./image/corchera.png" alt="" sizes="" srcset="">
+                <img src="./image/somos.png" alt="somos" sizes="">
                 <br>
                 <br>
             </div>

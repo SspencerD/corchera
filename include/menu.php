@@ -1,7 +1,7 @@
  <div class="container">
      <div class="header-inner">
          <div class="col-sm-3 col-xs-3 header-left">
-             <div id="logo"> <a href="index.html"><img src="image/logo1.png" class="img-responsive" width="500" /></a> </div>
+             <div id="logo"> <a href="index.html"><img src="image/logoicsa.png" class="img-responsive" width="500" /></a> </div>
          </div>
      </div>
  </div>
